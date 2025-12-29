@@ -45,3 +45,6 @@ Choose a real company. Identify whether their recent profit performance was more
 Take the same company and describe how efficiently it turns inputs (resources, costs) into outputs (revenue, sales).
 
 > We can assess the efficiency of a company using the income/profit numbers and costs. Dividing the income by the cost that went into producing said revenue gives us an accounting number called the return on asset. Which for Eli Lilly will be: 10.6 billion divided by 78.7 billion, coming out to around 14%.
+
+> [!warning] Feedback
+> **Return on Assets (ROA)** = Net Income / **Total Assets**, not Income / Costs. What you calculated is closer to a profit margin. For ROA, you'd divide net income by total assets on the balance sheet (for Eli Lilly, total assets were ~$75B in 2024, giving ROA ≈ 14% — similar number, different reasoning).

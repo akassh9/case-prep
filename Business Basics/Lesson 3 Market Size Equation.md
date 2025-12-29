@@ -48,6 +48,13 @@ Estimate the size of the U.S. bottled water market by starting with one store's 
 >
 > We have an average of 25,000 grocery stores across America, so our market size would come out to around $157.5 billion.
 
+> [!warning] Feedback
+> Two issues here:
+> 1. **350,000 customers/month per store is too high** — a typical grocery store sees ~15,000-30,000 customers per month, not 350k.
+> 2. **Final estimate is ~6x too high** — the actual US bottled water market is around $20-25 billion. Consider: not every grocery trip includes bottled water, and $30/trip is on the high end.
+>
+> A better bottom-up: ~40,000 grocery stores × 20,000 customers × 20% buy water × $15 avg = ~$2.4B/month → ~$29B/year.
+
 ### Mini Case Practice (Top-Down)
 
 Estimate the size of the U.S. annual movie theater market by using population × frequency × ticket price.
@@ -65,3 +72,10 @@ Estimate the size of the U.S. annual movie theater market by using population ×
 > Equation: 125 million × 2.1 × 12 × $10 = ~$31.25B
 >
 > Then we have the fringes which bring it up to around **$35 billion per year** in revenue.
+
+> [!warning] Feedback
+> The frequency assumption is off:
+> - **2.1 movies/month = 25 movies/year** — the average American actually goes ~4-5 times per year (~0.4/month).
+> - The actual US box office is around **$10-12 billion/year**.
+>
+> Better calc: 150M moviegoers × 5 visits/year × $12 ticket = **$9B/year** (closer to reality).
