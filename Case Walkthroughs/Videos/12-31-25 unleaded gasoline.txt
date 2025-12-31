@@ -1,0 +1,88 @@
+Okay, hi. Yeah, so our case just to recap is how many gallons of unletted gasoline,
+unletted gas, automobiles consume each year in the United States. So it's about the
+unletted gasoline consumption each year in the United States. For this, I think I'm
+going to go with a top-down approach. We're going to break it down into five different
+steps, starting off with the population of the United States, which comes out to
+around 350 million currently. And then step two would be to have estimate on how much
+of this population owns a automobile. This is a tricky part because most people obviously
+will have a personal vehicle, but a lot of these businesses will also have these business
+vehicles, which are also like a significant portion of the unletted gasoline consumption
+in the US. But for now, just to segment the population further, segmenting the population.
+I'm going to assume a 60% of the population owns cars. This is a pretty high number
+I would significantly, I would make it significantly smaller if I was doing this for a different
+country, but given that US is a very car centric society, I think the 60% number here makes sense.
+So 60% of 350 comes out to six times five, five, six, eight, eight, zero, three,
+two hundred and ten million. At the same time, I'm also going to go back to step one,
+and where I used population, I'm going to figure out a number for businesses that might own a
+vehicle. This could be restaurants that do delivery like dominoes are on like one vehicle per
+business, and then there would be businesses like trucking companies, which would one fleets
+of vehicles. So that would be like a much like an average of 10 vehicles per, per business.
+So I would actually know scratch that I'm going to stick with my population number,
+two hundred and ten million, and when I segment this population further, so my two hundred and
+ten million number, I'm going to put it on a table pretty much, and I'm going to segment it
+according to people, people's daily usage basically. I know the biggest number would be
+daily commuters.
+The second would be
+I have daily commuters on there, the second would be people
+teenagers maybe, people that don't need to drive every day.
+Teenagers are like more like college students outside. People who don't need to drive every day,
+but they do have a car for basic things like grocery shopping, getting around the city,
+but usually most of the time their cars are parked and their apartment complex and their
+college parking, etc, etc. And then the last one would be recreational drivers.
+Would drive it over the weekends, stuff like that, just for fun.
+I am going to start segmenting these, so the two hundred and ten million people,
+I'm going to start segmenting these into these streaming categories. I would say the daily commuters
+will be the biggest portion of the chunk. I'm going to put them at around 60% of the two hundred
+and ten million number. And then for teenagers and college students, I would put them at around
+maybe 30%. That seems like a reasonable enough number. And then for recreational drivers,
+I would put them at like 10%. I'm going to work out the macro quick, so 10% of two hundred
+and ten is one one is a one, one is a two, twenty one million,
+thirty percent of two, ten is three times twenty one, two is a three, two is a six,
+sixty three million. And then six percent of two hundred and ten is two and one times six,
+six hundred, six hundred, six hundred, six hundred twelve, one twenty six million.
+Now I need to figure out the replacement rate. It's not really a replacement rate,
+but the frequency at which they refill their gasoline. And what the every volume of
+that refill is pretty much for recreational drivers, I would assume they would go through
+around like one meter is 20 kilometers. Around 30 gallons per,
+if it's around 20 gallons per week, that'll be 20 times four, which is four and four to over,
+20 times four is 80 gallons per month, 80 gallons per month.
+For teenagers and college students, it would be much lower. I would say they would use
+probably around five gallons per week. They'll put them at 20 gallons per month,
+20 gallons per month. And then for the daily commuters, I would say they would go through
+about, if they use five, 20 gallons per month. Also around the 20, 25 marks, so I put them at like
+30 gallons at 30 liters, 30 times 20, 20, 200, 200, 600, they don't need that much.
+I would say they also go through about 80 islands, 5-10, 3-0, 3-0, 3-0, 3-0, 3-0, 4-0,
+4-0, on gas seems a little bit higher, so I would put them at 60 gallons per month, 60
+gallons per month. So I'm going to redo the number for the recreational drivers. I'm going to put them
+down to around 50 gallons per year. This is based on Channing, this Hanukkah checks because I am
+estimating the numbers currently. Given these numbers, I would say calculating the economics of it
+all. The 50 gallon per month times 12 times 21 million people will give me the gas that is used
+by the recreational drivers. I'm going to work that out real quick. 12 times 21, 1-2-2-1-1-2-2-4-2-2-2-5-2-2-52 times 50.
+520 or 10, 520, 526, 510, 1112, 12, 12, that's a lot. 1226, 12.6 billion seems a little
+bit high. Okay, not going very well. I need to multiply number by 5 as well. So 50 gallons per month.
+I'm actually going to start with the college kids. Sorry about that. So the college kids spend 20 gallons per
+month, which is times 12. That gives me the yearly consumption. And then it's going to be multiplied by
+their population, which is 63 million. And then times five dollars, which is the average price of a
+gallon of gas, 20 times 12. It gets me to the 4, 2240 times 63 into 5, 530 or 15, 530 to 8, I want 315 million.
+This will be a billion dollar number, 315 times 2040, 520, 10, 203, 206, 0, sorry, 0, 0, 2, 5,
+10, sorry, 315 times 24, 0, 540, 20, 4456, 14, 12, 13, 14, 2, 5, 10, 2, 3, 2, 3, 6, 0, 0, 6, 4, 5, 6, 7, 7, 8, 8,
+the 7.6 billion, billion. Right after done, we're going to do the daily commuters,
+who are numbers going to be multiplied by 87.6 times, almost twice, two, and that's two, three,
+6, 6, 7.6 times 6, 6, 6, 6, 7, 0, 42, 43, 44, 45, 5, 4, 8, 6, 48, 4, 9, 520, 520, 525 billion.
+And then the, to come, the recreational drivers will be using 87.6 times,
+1 by 3 times 2, so 87.6 multiplied by 2, 7.6 multiplied by 2, so 12, 17, 14, 15, you know, 16, 17, 17,
+25.2, and that is divided by 3, 3, 5, 15, 25, 57.1, which is around 57 billion. Adding all those
+together, we have 87.6 plus 57.0 plus 525.0.6, 7, 14, 15, 16, 17, 18, 19, 1, 8, 19, 11, 12, 13, 14, 15, 16,
+16, 169.6 billion, US dollar, which seems like a very big amount. I would say,
+yeah, I think what I did wrong here for feedback purposes is that my, my population is okay.
+I might have a higher percentage of cart usage than actual realistic number. I put it at 60%,
+which seems a little bit high. Then I have the recreational drivers at 10%, which also seems
+pretty high. I think it's around 5%, plus them going to 50 gallons per month seems unreasonable,
+since they are recreational drivers. And then I have college students and teenagers,
+which seems like a correct assumption at 30% of the hard driving population and 20 gallons per
+month. And I have the daily commuters who pay 60 gallons per month, I don't want 20 sex, which
+also seems correct. I then do the math, which should be correct, but the number that I finally
+would just 669.6 billion is pretty big. I would say it has been in flu. I don't know. I think
+that 60% is what got around. Additionally, I think I should definitely not take into account the
+number of commercial vehicles on on ground. I'm not sure how to do that. So I'm going to have to
+look at that later.
